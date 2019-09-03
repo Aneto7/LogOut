@@ -1,0 +1,2 @@
+# LogOut
+Rotina de logout
